@@ -1,2 +1,4 @@
 # Hello-World
-My First Rep
+My First Repo
+
+This is a great way to get some practice coding and building applications on AWS
